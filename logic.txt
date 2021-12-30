@@ -1,0 +1,38 @@
+angka 1
+if
+6 < 12 and 6 < 16 dan 6 < 20
+if
+8 < 10 and 8 < 14 dan 8 < 18
+
+angka 2
+if 
+12 < 14 and 12 < 18
+if 
+10 < 16 and 10 < 20
+if 
+8 < 10 and 12 < 6
+
+angka 3
+if 
+14 < 20 and 16 < 18
+if 
+8 < 14 and 12 < 14
+if
+16 < 6 and 16 < 10
+
+angka 4 
+if
+8 < 18 and 12 < 18 and 16 < 18
+if 
+20 < 6 and 20 < 10  and 20 <14
+if 
+17 < 4
+
+angka 5
+if 
+8 < 10 and 8 < 14 and 8 < 18 and 8 < 3
+if 
+4 < 17 
+
+
+ 
